@@ -1,0 +1,7 @@
+{
+  "name": "lista5fx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
